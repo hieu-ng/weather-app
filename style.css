@@ -6,7 +6,7 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background-image: url('bg.jpg');
+  background-image: url('https://images.unsplash.com/photo-1582463306861-dd85472f44d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80');
   background-size: cover;
   background-position: top center;
 }
