@@ -2,13 +2,13 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 :root {
-  --bg_main: #0a1f44;
+  --bg_main: #cae8d5;
   --text_light: #fff;
-  --text_med: #53627c;
-  --text_dark: #1e2432;
-  --red: #ff1e42;
-  --darkred: #c3112d;
-  --orange: #ff8c00;
+  --text_med: #3b6978;
+  --text_dark: #204051;
+  --red: #f76a8c;
+  --darkred: #b21f66;
+  --orange: #f1935c;
 }
 
 * {
@@ -181,21 +181,7 @@ body {
   height: 100px;
 }
 
-/* FOOTER
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-.page-footer {
-  text-align: right;
-  font-size: 1rem;
-  color: var(--text_light);
-  margin-top: 40px;
-}
-
-.page-footer span {
-  color: var(--red);
-}
-
-/* MQ
+/* MQ - Responsiveness
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 @media screen and (max-width: 1000px) {
